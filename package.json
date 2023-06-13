@@ -4,7 +4,7 @@
   "description": "LaserWeb Material Database...",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LaserWeb/lw.materials.git"
+    "url": "git+https://github.com/Rottschaferanders/lw.materials.git"
   },
   "keywords": [
     "laser",
@@ -15,7 +15,7 @@
   "author": "Laserweb Dev Team",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/LaserWeb/lw.materials/issues"
+    "url": "https://github.com/Rottschaferanders/lw.materials/issues"
   },
-  "homepage": "https://github.com/LaserWeb/lw.materials#readme"
+  "homepage": "https://github.com/Rottschaferanders/lw.materials#readme"
 }
