@@ -16,7 +16,7 @@
         "documents": [],
         "tabDocuments": [],
         "expanded": false,
-        "type": "Laser Cut",
+        "type": "Virtual Wire EDM Cut",
         "filterFillColor": null,
         "filterStrokeColor": null,
         "direction": "Conventional",
@@ -82,6 +82,6 @@
     },
     "presets": [],
     "isEditable": false,
-    "_locked": true
+    "_locked": false
   }
 ]
